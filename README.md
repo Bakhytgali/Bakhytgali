@@ -5,4 +5,4 @@
 - 🤔 I’m looking for an internship
 - 📫 How to reach me: Telegram ( @bakhytgali )
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I complete all work with ADHD and Vibes 
+- ⚡ Fun fact: I complete all the work with ADHD and Vibes 
