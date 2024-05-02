@@ -1,8 +1,8 @@
 ### Welcome to my page 👋
 
-- 🔭 I’m currently working on Music Player (Kotlin + Jetpack Compose) using Spotify's Android SDK
+- 🔭 I’m currently working on Movie Application (Flutter, Dart)
 - 🌱 I’m currently learning Cross Platform (Flutter) & Native Mobile (Kotlin, Jetpack Compose) development
 - 🤔 I’m looking for an internship
 - 📫 How to reach me: Telegram ( @bakhytgali )
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I complete all the work with ADHD and Vibes 
+- ⚡ Fun fact: I am obsessed with music and listen to it in avg. 50k minutes per year
