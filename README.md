@@ -1,4 +1,4 @@
-### Welcome to my page 👋
+### Hello onboard, nakama! 👋
 
 - 🔭 I’m currently working on Movie Application (Flutter, Dart)
 - 🌱 I’m currently learning Cross Platform (Flutter) & Native Mobile (Kotlin, Jetpack Compose) development
